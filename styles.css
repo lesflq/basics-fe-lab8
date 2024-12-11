@@ -573,7 +573,11 @@ footer .icon-card:hover {
         flex: 1 1 100%;
         padding: 10px;
     }
-
+    .left_me img {
+        margin-top: 25px;
+        height: 300px;
+        width: auto;
+    }
     .right_me h2 {
         font-size: 1.2rem;
     }
